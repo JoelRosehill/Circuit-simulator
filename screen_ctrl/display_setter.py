@@ -1,2 +1,5 @@
 import screen_size_check
 import os
+import display_control_panel
+
+print(display_control_panel.extract_numbers_from_line(1))
